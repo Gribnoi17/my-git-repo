@@ -23,4 +23,4 @@ git merge    # слияние отдельных направлений разр
  <a href="https://yandex.ru/games/app/221501?utm_source=game_popup_menu">Night_Racer</a>
 
 ## Я в вк 
-<a href="https://vk.com/slooner_1" target="_blank">
+<a href="https://vk.com/slooner_1" </a>
