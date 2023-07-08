@@ -18,3 +18,5 @@ git commit   # снимок текущего состояния изменени
 git checkout # перемещtybt между ветками, созданными командой git branch
 git merge    # слияние отдельных направлений разработки, созданных с помощью команды git branch в единую ветку
 
+## 🎮 Это те игры, над которыми мне пришлось поработать. Я расположил их в порядке от старых к новым: <a href="https://play.google.com/store/apps/details?id=com.SugoiDekaiGames">Fly_Bomber</a>, <a href="https://welwise-studio.itch.io/hit-the-vein?secret=uMFjyknbu7LxSUOtRcTmN0T1TlU">HitTheVein</a>,
+ <a href="https://yandex.ru/games/app/221501?utm_source=game_popup_menu">Night_Racer</a>
