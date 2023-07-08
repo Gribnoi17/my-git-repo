@@ -19,7 +19,7 @@ git checkout # перемещtybt между ветками, созданным�
 git merge    # слияние отдельных направлений разработки, созданных с помощью команды git branch в единую ветку
 
 ## Игры
-🎮 Это те игры, над которыми мне пришлось поработать. Я расположил их в порядке от старых к новым: <a href="https://play.google.com/store/apps/details?id=com.SugoiDekaiGames">Fly_Bomber</a>, <a href="https://welwise-studio.itch.io/hit-the-vein?secret=uMFjyknbu7LxSUOtRcTmN0T1TlU">HitTheVein</a>,
+🎮 Это те игры, над которыми мне пришлось поработать. Я расположил их в порядке от старых к новым: <a href="https://play.google.com/store/apps/details?id=com.SugoiDekaiGames">Fly_Bomber</a>,
  <a href="https://yandex.ru/games/app/221501?utm_source=game_popup_menu">Night_Racer</a>
 
 ## Я в вк 
