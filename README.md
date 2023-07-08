@@ -8,3 +8,5 @@
 * Использование .gitignore файла
 * Слияние веток и разрешение конфликтов
 
+## <a href="https://github.com/Gribnoi17/Gribnoi17">README моей страницы на гитхабе</a>
+
