@@ -26,4 +26,6 @@ TortoiseGit и SourceTree
  <a href="https://yandex.ru/games/app/221501?utm_source=game_popup_menu">Night_Racer</a>
 
 ## Я в вк 
-<a href="https://vk.com/slooner_1">Вк</a>
+<a href="https://vk.com/slooner_1" target="_blank">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvD8YoM7pzZqRTw_V1zAPzXAXt1PpB6pkMxmKmKJpcr-o1S0JfSD4LmKjSl4_1-KgCg&usqp=CAU style=for-the-badge&logo=VK&logoColor=white alt=VK style="margin-bottom: 5px;" />
+</a>
